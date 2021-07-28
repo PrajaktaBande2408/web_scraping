@@ -1,0 +1,758 @@
+COMPANY_NAME,SERVICE,TRIGGER,ERR_TYPE,ERR_MESSAGE
+Advance Auto Parts,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Advance Auto Parts,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Advance Auto Parts,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Advance Auto Parts,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+ALDO,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+ALDO,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+ALDO,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+ALDO,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Alice + Olivia,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Alice + Olivia,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Alice + Olivia,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Ally,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Ally,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+American Eagle Outfitters Inc.,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+American Eagle Outfitters Inc.,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+American Eagle Outfitters Inc.,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+American Eagle Outfitters Inc.,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Arc'teryx,URL_SCRAPING_SERVICE,"",FormValidURL,"Exception for: form_valid_url, company: Arc'teryx, url: , bad URI(is not URI?):  "
+Arc'teryx,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Arc'teryx, url: , private method `open' called for #<URI::Generic > "
+Arc'teryx,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Arc'teryx,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Bass Pro Shops,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: Bass Pro Shops, url: , 403 Forbidden "
+Bass Pro Shops,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Bass Pro Shops, url: , 403 Forbidden "
+Bass Pro Shops,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Bass Pro Shops, url: , 403 Forbidden "
+Bass Pro Shops,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Bass Pro Shops,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Beachbody,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Beachbody,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Best Buy,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Best Buy,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Best Buy,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+Best Buy,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Best Buy,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+BJ's Wholesale Club,URL_SCRAPING_SERVICE,"",FormValidURL,"Exception for: form_valid_url, company: BJ's Wholesale Club, url: , bad URI(is not URI?):  https://newsroom.bjs.com?source=footer "
+BJ's Wholesale Club,URL_SCRAPING_SERVICE,scrape_press_content,OpenURI,"Exception for: open_uri, company: BJ's Wholesale Club, url: , private method `open' called for #<URI::Generic > "
+BJ's Wholesale Club,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+BJ's Wholesale Club,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+BJ's Wholesale Club,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Bob's Discount Furniture,URL_SCRAPING_SERVICE,"",FormValidURL,"Exception for: form_valid_url, company: Bob's Discount Furniture, url: , bad URI(is not URI?): /golf-outing
+ "
+Bob's Discount Furniture,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Bob's Discount Furniture, url: , private method `open' called for #<URI::Generic > "
+Bob's Discount Furniture,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+Bob's Discount Furniture,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+Bob's Discount Furniture,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Bob's Discount Furniture,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Brinker International,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+Brinker International,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Brinker International,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Brinker International,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Brinker International,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Burlington,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Burlington,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Burlington,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Canon U.S.A,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Canon U.S.A,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Canon U.S.A,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Carter's,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+Carter's,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Carter's,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Carter's,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Carter's,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Chewy,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Chewy,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Chewy,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Chuck E. Cheese,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Chuck E. Cheese,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Chuck E. Cheese,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Chuck E. Cheese,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Church's Chicken,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Church's Chicken,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Circle K,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Circle K,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+CKE Restaurants,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+CKE Restaurants,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+CKE Restaurants,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+CKE Restaurants,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Conn's,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Conn's,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+CorePower Yoga,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+CorePower Yoga,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+CorePower Yoga,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+CorePower Yoga,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+CorePower Yoga,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Cracker Barrel,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: Cracker Barrel, url: , 403 Forbidden "
+Cracker Barrel,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+Cracker Barrel,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Cracker Barrel,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Cracker Barrel,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Cracker Barrel,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Darden Restaurants,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Darden Restaurants,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+David Yurman,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+David Yurman,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+David Yurman,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+David's Bridal,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: David's Bridal, url: , private method `open' called for #<URI::Generic javascript:void(0);> "
+David's Bridal,URL_SCRAPING_SERVICE,"",FormValidURL,"Exception for: form_valid_url, company: David's Bridal, url: , bad URI(is not URI?):  https://www.prnewswire.com/news-releases/davids-bridal-announces-launch-of-new-youtube-live-channel-with-247-wedding-videos-301287993.html  "
+David's Bridal,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: David's Bridal, url: , private method `open' called for #<URI::Generic > "
+David's Bridal,URL_SCRAPING_SERVICE,"",FormValidURL,"Exception for: form_valid_url, company: David's Bridal, url: , bad URI(is not URI?):   https://www.prnewswire.com/news-releases/davids-bridal-closes-new-70-million-capital-investment-from-cpp-investments-301282417.html  "
+David's Bridal,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: David's Bridal, url: , private method `open' called for #<URI::Generic > "
+David's Bridal,URL_SCRAPING_SERVICE,"",FormValidURL,"Exception for: form_valid_url, company: David's Bridal, url: , bad URI(is not URI?):  https://www.prnewswire.com/news-releases/davids-bridal-debuts-the-launch-of-first-ever-exclusive-quinceanera-label-fifteen-roses-301277280.html  "
+David's Bridal,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: David's Bridal, url: , private method `open' called for #<URI::Generic > "
+David's Bridal,URL_SCRAPING_SERVICE,"",FormValidURL,"Exception for: form_valid_url, company: David's Bridal, url: , bad URI(is not URI?):  https://www.prnewswire.com/news-releases/davids-bridal-releases-q1-pearl-report-data-revealing-2021-wedding-trends-301274062.html  "
+David's Bridal,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: David's Bridal, url: , private method `open' called for #<URI::Generic > "
+David's Bridal,URL_SCRAPING_SERVICE,"",FormValidURL,"Exception for: form_valid_url, company: David's Bridal, url: , bad URI(is not URI?):  https://www.prnewswire.com/news-releases/davids-bridal-announces-appointment-of-companys-first-chief-digital-experience-officer-300978303.html "
+David's Bridal,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: David's Bridal, url: , private method `open' called for #<URI::Generic > "
+David's Bridal,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+David's Bridal,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Del Taco,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Del Taco,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Delta Air Lines,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+Delta Air Lines,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Delta Air Lines,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Delta Air Lines,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Delta Air Lines,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Denny's Corporation,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,[] response from clearbit API
+Denny's Corporation,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Denny's Corporation,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Destination Hotels,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Destination Hotels, url: , 429 Too Many Requests "
+Destination Hotels,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Destination Hotels, url: , 429 Too Many Requests "
+Destination Hotels,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Destination Hotels,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Destination Hotels,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Discount Tire,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+Discount Tire,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Discount Tire,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Discount Tire,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Discount Tire,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Dollar General,URL_SCRAPING_SERVICE,scrape_press_content,OpenURI,"Exception for: open_uri, company: Dollar General, url: , 403 Forbidden "
+Dollar General,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Dollar General, url: , 404 Not Found "
+Dollar General,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Dollar General, url: , 404 Not Found "
+Dollar General,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Dollar General, url: , 404 Not Found "
+Dollar General,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Dollar General, url: , 404 Not Found "
+Dollar General,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Dollar General, url: , 404 Not Found "
+Dollar General,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Dollar General, url: , 404 Not Found "
+Dollar General,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Dollar General, url: , Net::ReadTimeout "
+Dollar General,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Dollar General, url: , Net::ReadTimeout "
+Dollar General,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Dollar General,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Dutch Bros Coffee,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+Dutch Bros Coffee,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Dutch Bros Coffee, url: , 308 Resume Incomplete "
+Dutch Bros Coffee,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Dutch Bros Coffee, url: , 308 Resume Incomplete "
+Dutch Bros Coffee,URL_SCRAPING_SERVICE,scrape_press_content,OpenURI,"Exception for: open_uri, company: Dutch Bros Coffee, url: , 308 Resume Incomplete "
+Dutch Bros Coffee,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Dutch Bros Coffee,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+eBay,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+eBay,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Equinox Holdings,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,[] response from clearbit API
+Equinox Holdings,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Equinox Holdings,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Equinox Holdings,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Equinox Holdings,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Express,URL_SCRAPING_SERVICE,scrape_press_content,OpenURI,"Exception for: open_uri, company: Express, url: , 403 Forbidden "
+Express,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Express,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Finish Line,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: Finish Line, url: , 403 Forbidden "
+Finish Line,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Finish Line,URL_SCRAPING_SERVICE,scrape_press_content,OpenURI,"Exception for: open_uri, company: Finish Line, url: , 403 Forbidden "
+Finish Line,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Finish Line,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+FOCUS Brands,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+FOCUS Brands,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Follett,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Follett, url: , 503 Service Unavailable "
+Follett,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Follett, url: , 503 Service Unavailable "
+Follett,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Follett, url: , 503 Service Unavailable "
+Follett,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Follett, url: , 503 Service Unavailable "
+Follett,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Follett, url: , 503 Service Unavailable "
+Follett,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Follett, url: , 503 Service Unavailable "
+Follett,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Follett, url: , 503 Service Unavailable "
+Follett,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Follett, url: , 503 Service Unavailable "
+Follett,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Follett, url: , 503 Service Unavailable "
+Follett,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Follett, url: , 503 Service Unavailable "
+Follett,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Follett, url: , 503 Service Unavailable "
+Follett,URL_SCRAPING_SERVICE,scrape_press_content,OpenURI,"Exception for: open_uri, company: Follett, url: , 503 Service Unavailable "
+Follett,URL_SCRAPING_SERVICE,scrape_press_content,OpenURI,"Exception for: open_uri, company: Follett, url: , Failed to open TCP connection to www.follett.comnews:443 (getaddrinfo: Name or service not known) "
+Follett,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Follett,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Foot Locker,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Foot Locker, url: , 404 Not Found "
+Foot Locker,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Foot Locker,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Foot Locker,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Fossil,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Fossil, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Fossil, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Fossil, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Fossil,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Fossil,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Four Seasons,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Four Seasons, url: , private method `open' called for #<URI::Generic javascript::void(0);> "
+Four Seasons,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Four Seasons, url: , private method `open' called for #<URI::Generic javascript::void(0);> "
+Four Seasons,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Four Seasons,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Genuine Parts,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Genuine Parts, url: , Failed to open TCP connection to www.genpt.comabout_gpc.html:443 (getaddrinfo: Name or service not known) "
+Genuine Parts,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Genuine Parts, url: , Failed to open TCP connection to www.genpt.comabout_history.html:443 (getaddrinfo: Name or service not known) "
+Genuine Parts,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Genuine Parts, url: , Failed to open TCP connection to www.genpt.comabout.html:443 (getaddrinfo: Name or service not known) "
+Genuine Parts,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Genuine Parts, url: , Failed to open TCP connection to www.genpt.comabout_gpc.html:443 (getaddrinfo: Name or service not known) "
+Genuine Parts,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Genuine Parts, url: , Failed to open TCP connection to www.genpt.comabout_history.html:443 (getaddrinfo: Name or service not known) "
+Genuine Parts,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Genuine Parts, url: , Failed to open TCP connection to www.genpt.comabout.html:443 (getaddrinfo: Name or service not known) "
+Genuine Parts,ABOUT_US_SERVICE,scrape_about_content,about_us_content_not_found,About Us content not found
+Genuine Parts,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Genuine Parts,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Genuine Parts,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Gold's Gym,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Gold's Gym,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Gold's Gym,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Gymboree,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Gymboree,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Gymboree,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Gymboree,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+H.E.B. Grocery,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,[] response from clearbit API
+H.E.B. Grocery,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+H.E.B. Grocery,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+H.E.B. Grocery,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+H.E.B. Grocery,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+H.E.B. Grocery,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Hanes,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: Hanes, url: , 403 Forbidden "
+Hanes,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Hanes, url: , 403 Forbidden "
+Hanes,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Hanes, url: , 403 Forbidden "
+Hanes,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Hanes, url: , 403 Forbidden "
+Hanes,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Hanes, url: , 403 Forbidden "
+Hanes,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Hanes,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Hanes,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Harry's,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+Harry's,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Harry's,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Harry's,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Harry's,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+HHM Hospitality,ABOUT_US_SERVICE,scrape_about_content,about_us_content_not_found,About Us content not found
+HHM Hospitality,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: HHM Hospitality, url: , Net::ReadTimeout "
+HHM Hospitality,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: HHM Hospitality, url: , Net::ReadTimeout "
+HHM Hospitality,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+HHM Hospitality,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+HHM Hospitality,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Hims,PRESS_RELEASES_SERVICE,collect_press_releases,press_releases_not_found,Press releases not found
+Hims,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Hims,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Hot Topic,URL_SCRAPING_SERVICE,"",FormValidURL,"Exception for: form_valid_url, company: Hot Topic, url: , bad URI(is not URI?):  "
+Hot Topic,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Hot Topic, url: , private method `open' called for #<URI::Generic > "
+Hot Topic,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Hot Topic,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+HUM Nutrition,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: HUM Nutrition, url: , 403 Forbidden "
+HUM Nutrition,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: HUM Nutrition, url: , 404 Not Found "
+HUM Nutrition,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: HUM Nutrition, url: , 403 Forbidden "
+HUM Nutrition,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: HUM Nutrition, url: , 403 Forbidden "
+HUM Nutrition,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: HUM Nutrition, url: , 404 Not Found "
+HUM Nutrition,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: HUM Nutrition, url: , 404 Not Found "
+HUM Nutrition,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: HUM Nutrition, url: , 403 Forbidden "
+HUM Nutrition,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: HUM Nutrition, url: , 404 Not Found "
+HUM Nutrition,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: HUM Nutrition, url: , 404 Not Found "
+HUM Nutrition,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+HUM Nutrition,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+HUM Nutrition,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Indeed,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+Indeed,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Indeed,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Indeed,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Indeed,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+James Avery Artisan Jewelry,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+James Avery Artisan Jewelry,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+James Avery Artisan Jewelry,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Jimmy Jazz,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Jimmy Jazz,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Jimmy Jazz,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+L Brands,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: L Brands, url: , 404 Not Found "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+L Brands,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+L Brands,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+LA Fitness,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , execution expired "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , private method `open' called for #<URI::Generic javascript:void(0);> "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , execution expired "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , execution expired "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , execution expired "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , execution expired "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , Failed to open TCP connection to www.lafitness.com..:443 (getaddrinfo: Name or service not known) "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , private method `open' called for #<URI::Generic javascript:void(0);> "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , execution expired "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , execution expired "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , execution expired "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , execution expired "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , Failed to open TCP connection to www.lafitness.com..:443 (getaddrinfo: Name or service not known) "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , execution expired "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , execution expired "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , execution expired "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , execution expired "
+LA Fitness,URL_SCRAPING_SERVICE,scrape_press_content,OpenURI,"Exception for: open_uri, company: LA Fitness, url: , Failed to open TCP connection to www.lafitness.comNewsAndAnnouncements.aspx:443 (getaddrinfo: Name or service not known) "
+LA Fitness,PRESS_RELEASES_SERVICE,collect_press_releases,press_releases_not_found,Press releases not found
+LA Fitness,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+LA Fitness,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Lacks Main,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,[] response from clearbit API
+Lacks Main,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: Lacks Main, url: , 403 Forbidden "
+Lacks Main,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Lacks Main, url: , 403 Forbidden "
+Lacks Main,URL_SCRAPING_SERVICE,"",FormValidURL,"Exception for: form_valid_url, company: Lacks Main, url: , bad URI(is not URI?): /about  "
+Lacks Main,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Lacks Main, url: , private method `open' called for #<URI::Generic > "
+Lacks Main,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Lacks Main, url: , 403 Forbidden "
+Lacks Main,URL_SCRAPING_SERVICE,"",FormValidURL,"Exception for: form_valid_url, company: Lacks Main, url: , bad URI(is not URI?): /about  "
+Lacks Main,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Lacks Main, url: , private method `open' called for #<URI::Generic > "
+Lacks Main,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Lacks Main,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Lilly Pulitzer,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+Lilly Pulitzer,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Lilly Pulitzer,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Lilly Pulitzer,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Lilly Pulitzer,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , Net::ReadTimeout "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 404 Not Found "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , Net::ReadTimeout "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , Net::ReadTimeout "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , Net::ReadTimeout "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , Net::ReadTimeout "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 404 Not Found "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , Net::ReadTimeout "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 410 Gone "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , 403 Forbidden "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , SSL_connect returned=1 errno=0 state=error: wrong signature type "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , Net::ReadTimeout "
+Living Spaces,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Living Spaces, url: , Net::ReadTimeout "
+Living Spaces,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Living Spaces,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Logix,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Logix,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Logix Federal Credit Union,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,[] response from clearbit API
+Logix Federal Credit Union,GOOGLE_SEARCH_API_SERVICE,company_url_service,google_search_API_execute,HTTP status code 520
+Logix Federal Credit Union,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: Logix Federal Credit Union, url: , 999 Request denied "
+Logix Federal Credit Union,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+Logix Federal Credit Union,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Logix Federal Credit Union,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Logix Federal Credit Union,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Logix Federal Credit Union,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Mattress Firm,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Mattress Firm, url: , 404 Not Found "
+Mattress Firm,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Mattress Firm,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+McDonald's,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: McDonald's, url: , Net::ReadTimeout "
+McDonald's,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: McDonald's, url: , Net::ReadTimeout "
+McDonald's,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: McDonald's, url: , Net::ReadTimeout "
+McDonald's,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: McDonald's, url: , Net::ReadTimeout "
+McDonald's,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: McDonald's, url: , Net::ReadTimeout "
+McDonald's,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: McDonald's, url: , Net::ReadTimeout "
+McDonald's,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: McDonald's, url: , Net::ReadTimeout "
+McDonald's,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: McDonald's, url: , Net::ReadTimeout "
+McDonald's,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: McDonald's, url: , Net::ReadTimeout "
+McDonald's,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: McDonald's, url: , Net::ReadTimeout "
+McDonald's,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: McDonald's, url: , Net::ReadTimeout "
+McDonald's,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: McDonald's, url: , Net::ReadTimeout "
+McDonald's,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: McDonald's, url: , Net::ReadTimeout "
+McDonald's,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: McDonald's, url: , Net::ReadTimeout "
+McDonald's,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+McDonald's,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+McDonald's,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Meijer,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: Meijer, url: , Net::ReadTimeout "
+Meijer,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Meijer, url: , Net::ReadTimeout "
+Meijer,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Meijer, url: , Net::ReadTimeout "
+Meijer,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Meijer, url: , execution expired "
+Meijer,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Meijer,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+O'Reilly Automotive,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+O'Reilly Automotive,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+O'Reilly Automotive,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+O'Reilly Automotive,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+O'Reilly Automotive,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Omni Hotels & Resorts,URL_SCRAPING_SERVICE,scrape_news_content,OpenURI,"Exception for: open_uri, company: Omni Hotels & Resorts, url: , 999 Request denied "
+Omni Hotels & Resorts,URL_SCRAPING_SERVICE,scrape_news_content,OpenURI,"Exception for: open_uri, company: Omni Hotels & Resorts, url: , Net::ReadTimeout "
+Oriental Trading Company,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,[] response from clearbit API
+Oriental Trading Company,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Oriental Trading Company,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+Oriental Trading Company,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+Oriental Trading Company,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Oriental Trading Company,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Otter Products,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Otter Products,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+Otter Products,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Otter Products,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Panda Restaurant Group,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,[] response from clearbit API
+Panda Restaurant Group,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Panda Restaurant Group,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Papa John's,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Papa John's,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Papa John's,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+PayPal,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+PayPal,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+PayPal,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Penguin Random House,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+Penguin Random House,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Penguin Random House,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Perry Ellis,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Perry Ellis,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Perry Ellis,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+PetCo,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+PetCo,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+PetCo,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+PetCo,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+"Poshmark, Inc.",GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+"Poshmark, Inc.",NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+PVH,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+PVH,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+PVH,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+PVH,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+PVH,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Raymour & Flanigan,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+Raymour & Flanigan,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Raymour & Flanigan,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Raymour & Flanigan,URL_SCRAPING_SERVICE,scrape_news_content,OpenURI,"Exception for: open_uri, company: Raymour & Flanigan, url: , 999 Request denied "
+Red Lobster,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Red Lobster,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Red Lobster,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+Red Lobster,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+Red Lobster,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Red Lobster,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Regis,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Regis,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Remington Hotels,URL_SCRAPING_SERVICE,scrape_press_content,OpenURI,"Exception for: open_uri, company: Remington Hotels, url: , private method `open' called for #<URI::Generic javascript:;> "
+Remington Hotels,PRESS_RELEASES_SERVICE,collect_press_releases,press_releases_not_found,Press releases not found
+Remington Hotels,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Remington Hotels,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Ross Stores,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Ross Stores,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Ross Stores,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Rue La La,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: Rue La La, url: , Net::ReadTimeout "
+Rue La La,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+Rue La La,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: Rue La La, url: , Net::ReadTimeout "
+Rue La La,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Rue La La,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: Rue La La, url: , Net::ReadTimeout "
+Rue La La,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Rue La La,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Rue La La,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Rue21,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Rue21,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Save-A-Lot,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Save-A-Lot,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Save-A-Lot,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Save-A-Lot,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+SAXX Underwear,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+SAXX Underwear,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+SAXX Underwear,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+SAXX Underwear,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Sleep Number,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+Sleep Number,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Sleep Number,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Sleep Number,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Sleep Number,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Sobeys,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Sobeys, url: , 404 Not Found "
+Sobeys,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Sobeys,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Sobeys,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Sonos,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Sonos,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+Sonos,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Sonos,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Squaw Valley,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Squaw Valley,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Squaw Valley,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Squaw Valley Alpine Meadows,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+Squaw Valley Alpine Meadows,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Squaw Valley Alpine Meadows,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Squaw Valley Alpine Meadows,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Squaw Valley Alpine Meadows,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Stadium Goods,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Stadium Goods,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Stadium Goods,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Stadium Goods,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Subway,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Subway,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Subway,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Subway,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Swisher International,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,[] response from clearbit API
+Swisher International,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Swisher International,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Tailored Brands,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Tailored Brands,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Talbots,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Talbots,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+Talbots,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Talbots,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+TechStyle Fashion Group,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: TechStyle Fashion Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+TechStyle Fashion Group,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+TechStyle Fashion Group,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+The Clorox Company,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: The Clorox Company, url: , 404 Not Found "
+The Clorox Company,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: The Clorox Company, url: , 404 Not Found "
+The Clorox Company,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: The Clorox Company, url: , 404 Not Found "
+The Clorox Company,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: The Clorox Company, url: , 404 Not Found "
+The Clorox Company,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: The Clorox Company, url: , 404 Not Found "
+The Clorox Company,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: The Clorox Company, url: , 404 Not Found "
+The Clorox Company,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+The Clorox Company,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+The Clorox Company,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+The Clorox Company,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+The DvF,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,[] response from clearbit API
+The DvF,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: The DvF, url: , 403 Forbidden "
+The DvF,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+The DvF,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: The DvF, url: , 403 Forbidden "
+The DvF,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+The DvF,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: The DvF, url: , 403 Forbidden "
+The DvF,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+The DvF,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+The DvF,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+The Exchange,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+The Exchange,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+The Finish Line,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: The Finish Line, url: , HTTP redirection loop: https://www.thefinishline.pro/ "
+The Finish Line,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+The Finish Line,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: The Finish Line, url: , HTTP redirection loop: https://www.thefinishline.pro/ "
+The Finish Line,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+The Finish Line,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: The Finish Line, url: , HTTP redirection loop: https://www.thefinishline.pro/ "
+The Finish Line,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+The Finish Line,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+The Finish Line,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+The Talbots,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,[] response from clearbit API
+The Talbots,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+The Talbots,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+The Talbots,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+The Talbots,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+The Talbots,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+The Wonderful Company,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+The Wonderful Company,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+The Wonderful Company,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+TJX Companies,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,[] response from clearbit API
+TJX Companies,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+TJX Companies,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Tumi,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: Tumi, url: , 403 Forbidden "
+Tumi,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Tumi, url: , 403 Forbidden "
+Tumi,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Tumi, url: , 403 Forbidden "
+Tumi,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Tumi,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Tumi,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+UPS,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+UPS,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+UPS,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+UPS,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+UPS,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Urban Outfitters,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: Urban Outfitters, url: , 403 Forbidden "
+Urban Outfitters,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Urban Outfitters,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Urban Outfitters,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Urban Outfitters,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Wacoal America,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Wacoal America, url: , 403 Forbidden "
+Wacoal America,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Wacoal America, url: , 403 Forbidden "
+Wacoal America,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Wacoal America,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Ally Financial Services,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,[] response from clearbit API
+Ally Financial Services,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Ally Financial Services, url: , Failed to open TCP connection to www.allyfinance.co.inabout-us.php:80 (getaddrinfo: Name or service not known) "
+Ally Financial Services,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Ally Financial Services, url: , Failed to open TCP connection to www.allyfinance.co.inabout-us.php:80 (getaddrinfo: Name or service not known) "
+Ally Financial Services,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Ally Financial Services,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Ally Financial Services,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+American Eagle Outfitters,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+American Eagle Outfitters,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+American Eagle Outfitters,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+American Eagle Outfitters,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Big 5 Sporting Goods,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Big 5 Sporting Goods,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Big 5 Sporting Goods,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+BJ's Wholesale Club Inc.,URL_SCRAPING_SERVICE,"",FormValidURL,"Exception for: form_valid_url, company: BJ's Wholesale Club Inc., url: , bad URI(is not URI?):  https://newsroom.bjs.com?source=footer "
+BJ's Wholesale Club Inc.,URL_SCRAPING_SERVICE,scrape_press_content,OpenURI,"Exception for: open_uri, company: BJ's Wholesale Club Inc., url: , private method `open' called for #<URI::Generic > "
+BJ's Wholesale Club Inc.,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+BJ's Wholesale Club Inc.,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Bjs,URL_SCRAPING_SERVICE,"",FormValidURL,"Exception for: form_valid_url, company: Bjs, url: , bad URI(is not URI?):  https://newsroom.bjs.com?source=footer "
+Bjs,URL_SCRAPING_SERVICE,scrape_press_content,OpenURI,"Exception for: open_uri, company: Bjs, url: , private method `open' called for #<URI::Generic > "
+Bjs,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Bjs,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Burlington Stores,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Burlington Stores,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+Burlington Stores,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+Burlington Stores,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Burlington Stores,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Chuck E Cheese's Entertainment,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,[] response from clearbit API
+Chuck E Cheese's Entertainment,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Chuck E Cheese's Entertainment,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Chuck E. Cheese's,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Chuck E. Cheese's,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Chuck E. Cheese's,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Chuck E. Cheese's,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Fossil Group,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_press_content,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: Fossil Group, url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+Fossil Group,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Fossil Group,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Hanes for Good,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,[] response from clearbit API
+Hanes for Good,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Hanes for Good,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Hanes for Good,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , 404 Not Found "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: L Brands, Inc., url: , SSL_connect returned=1 errno=0 state=error: certificate verify failed "
+"L Brands, Inc.",GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+"L Brands, Inc.",NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+O’Reilly Auto Parts,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+O’Reilly Auto Parts,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+O’Reilly Auto Parts,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+O’Reilly Auto Parts,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+O’Reilly Auto Parts,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Papa John's International,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,[] response from clearbit API
+Papa John's International,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Papa John's International, url: , 404 Not Found "
+Papa John's International,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Papa John's International,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Perry Ellis International,URL_SCRAPING_SERVICE,scrape_about_us_urls,OpenURI,"Exception for: open_uri, company: Perry Ellis International, url: , 404 Not Found "
+Perry Ellis International,URL_SCRAPING_SERVICE,scrape_about_content,OpenURI,"Exception for: open_uri, company: Perry Ellis International, url: , 404 Not Found "
+Perry Ellis International,URL_SCRAPING_SERVICE,scrape_press_content,OpenURI,"Exception for: open_uri, company: Perry Ellis International, url: , 404 Not Found "
+Perry Ellis International,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+Perry Ellis International,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,Timed out reading data from server
+Perry Ellis International,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Perry Ellis International,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Raymour & Flanigan Furniture,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,URL match Algorithm Failed
+Raymour & Flanigan Furniture,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+Raymour & Flanigan Furniture,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Raymour & Flanigan Furniture,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Raymour & Flanigan Furniture,URL_SCRAPING_SERVICE,scrape_news_content,OpenURI,"Exception for: open_uri, company: Raymour & Flanigan Furniture, url: , 999 Request denied "
+rue21,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+rue21,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+Rue21 393,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,URL match Algorithm Failed
+Rue21 393,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: Rue21 393, url: , 403 Forbidden "
+Rue21 393,HOMEPAGE_SERVICE,HomepageService,homepage_content_not_found,Homepage content not found
+Rue21 393,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: Rue21 393, url: , 403 Forbidden "
+Rue21 393,ABOUT_US_SERVICE,scrape_about_us_urls,about_us_urls_not_found,About Us URLs not found
+Rue21 393,URL_SCRAPING_SERVICE,scrape_company_url,OpenURI,"Exception for: open_uri, company: Rue21 393, url: , 403 Forbidden "
+Rue21 393,PRESS_RELEASES_SERVICE,scrape_press_urls,press_urls_not_found,Press URLs not found
+Rue21 393,GOOGLE_SEARCH_API_SERVICE,news_content,google_search_API_execute,HTTP status code 520
+Rue21 393,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+Rue21 393,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+rue21.com,COMPANY_URL_SERVICE,company_url_service,process_company_url_algo,URL match Algorithm Failed
+rue21.com,GOOGLE_SEARCH_API_SERVICE,company_url_service,google_search_API_execute,HTTP status code 520
+rue21.com,GOOGLE_SEARCH_API_SERVICE,company_url_service,google_search_API_execute,Timed out reading data from server
+rue21.com,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: rue21.com, url: , 403 Forbidden "
+rue21.com,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: rue21.com, url: , Net::ReadTimeout "
+rue21.com,URL_SCRAPING_SERVICE,scrape_destination_url,OpenURI,"Exception for: open_uri, company: rue21.com, url: , 404 Not Found on Accelerator "
+rue21.com,GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+rue21.com,NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
+"The TJX Companies, Inc.",GOOGLE_SEARCH_API_SERVICE,news_content,search_results_not_found,Not_found search_results: news_content
+"The TJX Companies, Inc.",NEWS_CONTENT_SERVICE,collect_news_content,news_content_not_found,News content not found
